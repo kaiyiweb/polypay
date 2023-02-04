@@ -2,7 +2,7 @@
 
 ## 安装
 
-> composer require laoqianjunzi/polypay
+> composer require kaiyiweb/polypay
 
 ## 配置
 
